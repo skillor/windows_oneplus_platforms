@@ -19,7 +19,7 @@ Please see [LICENSE](LICENSE.md)
 For preserving charset encoding, please checkout with using:
 
 ```
-git clone -c core.autocrlf=false https://github.com/Project-Aloha/windows_oneplus_platforms
+git clone -c core.autocrlf=false https://github.com/skillor/windows_oneplus_platforms
 ```
 
 ---
